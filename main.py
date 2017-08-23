@@ -4,6 +4,7 @@
 
 ## 目录：
 ### 1. K-means
+### 2. BPNeturalNetwork
 """
 str = __doc__
 # str = str.encode('gbk')
